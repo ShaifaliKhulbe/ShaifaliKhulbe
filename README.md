@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ShaifaliKhulbe
 - 👀 I’m in Belgium.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning NLP and machine learning.
+- FIND MY most up-to-date E-RESUME HERE: https://shaifali-khulbe.netlify.app/
 
-This is an ongoing project with twitter data.
+
 
 
